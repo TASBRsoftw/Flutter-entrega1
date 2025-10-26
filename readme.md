@@ -1,4 +1,4 @@
-# Relatório - Laboratório 2: Interface Profissional
+# Relatório - Laboratório 2: Gerenciador de Tarefas
 
 ## 1. Implementações Realizadas
 O projeto Task Manager Pro evoluiu para uma interface profissional, seguindo os padrões do Material Design 3. As principais funcionalidades implementadas incluem:
